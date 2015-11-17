@@ -12,3 +12,5 @@ wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
 .sass-cache
+assets/scss/vendor
+node_modules
